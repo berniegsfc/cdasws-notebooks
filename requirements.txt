@@ -52,7 +52,6 @@ ruamel.yaml.clib==0.2.0
 scipy==1.2.1
 SecretStorage==3.1.1
 six==1.12.0
-spacepy==0.2.1
 tqdm==4.31.1
 twine==3.1.1
 typed-ast==1.4.0
