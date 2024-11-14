@@ -8,3 +8,4 @@ jupyter-notebookparams>=0.0.4
 # the following limits are to keep notebookparams working on binder.org
 notebook==6.*
 jupyter-server==1.*
+jupyterlab==3.*
